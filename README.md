@@ -74,5 +74,12 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
+<br /> 
+<br />
 
+---
+
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EsinnOrc&theme=prussian&show_icons=true"></img></p>    
 
