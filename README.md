@@ -26,8 +26,7 @@
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [eoruc@369gmail.com](mailto:eoruc369@gmail.com).
 
-
-
+<br />
 
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
