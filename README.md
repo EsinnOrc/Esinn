@@ -1,3 +1,4 @@
+<br />
 <h3 title="hehehe"> Hey 👋, I'm Esinn!</h3>
 
 <a href="www.linkedin.com/in/esin-oruç">
@@ -10,8 +11,8 @@
 <br />
 <br />
 <br />
-<br />
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+
+<h4 title="a"> A WEB DEVELOPMENT Enthusiast 🚀.</h4>
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
