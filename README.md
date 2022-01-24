@@ -27,8 +27,8 @@
 - 📫 Email me at [eoruc@369gmail.com](mailto:eoruc369@gmail.com).
 
 <br />
-
-
+<br />
+<br />
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4> Languages </h4>
