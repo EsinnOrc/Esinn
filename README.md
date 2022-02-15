@@ -24,7 +24,7 @@
 - 🤔 My interest lies in front end web development
 - 👯 I’m looking to collaborate on Web Development Related Projects 
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [eoruc@369gmail.com](mailto:eoruc369@gmail.com).
+- 📫 Email me at [eoruc369@gmail.com](mailto:eoruc369@gmail.com).
 
 <br />
 
