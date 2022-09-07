@@ -1,7 +1,7 @@
 <br />
 <h3 title="hehehe"> Hey 👋, I'm Esinn!</h3>
 
-<a href="https://www.linkedin.com/in/esin-oruç">
+<a href="https://www.linkedin.com/in/esinoruc/">
   <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/orucesinn/">
