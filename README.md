@@ -20,7 +20,7 @@
 **About Me!**
 - :zap: I love mathematical algorithms, math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
-- 👨🏽‍💻 I am currently a software engineering student
+- 👨🏽‍💻 I am currently a Master's Degree software engineering student
 - 🤔 My interest lies in front end web development
 - 👯 I’m looking to collaborate on Web Development Related Projects 
 - 💬 Ask me about anything, I love to answer!
